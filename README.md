@@ -1,4 +1,4 @@
-# hqapp
+# hqflutterapp
 
 A new Flutter project.
 
